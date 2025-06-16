@@ -1,7 +1,7 @@
-alpaca-trade-api
-scikit-learn
+alpaca-py
 pandas
 numpy
 matplotlib
-streamlit
 python-dotenv
+pyyaml
+python-telegram-bot
