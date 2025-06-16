@@ -1,0 +1,21 @@
+alpaca:
+  api_key: "PKTZNXVE54MF1WERXH7O"  
+  api_secret: "mXX6EyyqOfACLPwlNDniOuCUX2hG2vCtcZpVNDx3"
+  paper: true
+
+trading:
+  symbol: BTC/USD
+  short_sma: 50
+  long_sma: 200
+  trade_qty: 0.001
+  fee_rate: 0.0005
+  initial_cash: 10000.0
+  stop_loss_pct: 0.02
+  max_drawdown_pct: 0.10
+  use_limit_orders: false
+  dry_run: true
+
+telegram:
+  enabled: false
+  token: YOUR_TELEGRAM_BOT_TOKEN
+  chat_id: YOUR_CHAT_ID
